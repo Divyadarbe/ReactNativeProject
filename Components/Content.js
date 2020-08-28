@@ -76,7 +76,8 @@ const styles=StyleSheet.create({
         // alignItems:'center',
         justifyContent:'space-between',
         height:'100px',
-        // zIndex:-1
+        
+    
     },
     content__row1Text:{
         marginLeft:'10px'
@@ -95,7 +96,8 @@ const styles=StyleSheet.create({
         borderRadius:'8px',
         margin:'10px',
         flexDirection:'row',
-        
+        zIndex:1,
+        marginTop:'-10px',
         // alignItems:'center',
         justifyContent:'space-between'
     },
